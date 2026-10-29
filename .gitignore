@@ -1,0 +1,14 @@
+/work/
+/out/
+/dist/
+__pycache__/
+*.pyc
+*.sav
+*.savbak
+*.dmp
+*.gpak
+*.dll
+*.exe
+*.pdb
+*.log
+ExpandedStorage.local.ini
